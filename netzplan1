@@ -1,0 +1,13 @@
+Nr.1|Vorbereitung|2|
+Nr.2|Kundenbedarfsanalyse|1|Nr.1
+Nr.3|Datenmodell entwerfen|3|Nr.2
+Nr.4|Modularisierung|2|Nr.2
+Nr.5|Entwurf der Klassen|4|Nr.4
+Nr.6|Schreiben der Klassen|2|Nr.5
+Nr.7|Tabellen kreeiren|2|Nr.3
+Nr.8|Daten importieren|2|Nr.7
+Nr.9|Implementierung der Datenbank|6|Nr.8&Nr.6
+Nr.10|Testen der Software|1|Nr.9
+Nr.11|Schulen der Nutzer|3|Nr.9
+Nr.12|Schreiben des Handbuchs|2|Nr.9
+Nr.13|Ausliefern der Software|1|Nr.10&Nr.11&Nr.12
